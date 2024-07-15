@@ -23,3 +23,8 @@ print start
 step 1= cd server
 step 2= nodemon pattern.js or node pattern.js
 
+read localfile or directory
+
+step 1= cd server
+step 2= nodemon readlocal.js or node readlocal.js
+
