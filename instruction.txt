@@ -1,0 +1,25 @@
+front end
+
+step 1 = cd frontend
+step 2 = pnpm install  or npm install
+step 2 = pnpm dev or pnpm run dev or npm dev
+
+
+back end
+
+step 1= cd server
+step 2= nodemon index.js or node index.js
+step 3 = use api http://localhost:3000/api using post man link /api/createdata and /api/studententire both are get router
+
+prime number check
+
+step 1 = cd server
+step 2 =   nodemon index.js or node index.js
+step 3 = use  post  api /api/prime send data as json example { "number":22} get responce in body
+
+
+print start
+
+step 1= cd server
+step 2= nodemon pattern.js or node pattern.js
+
